@@ -1,0 +1,66 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * azo-sans-uber:
+ *   - http://typekit.com/eulas/000000000000000000014a2e
+ * azo-sans-web:
+ *   - http://typekit.com/eulas/000000000000000000013f4e
+ *   - http://typekit.com/eulas/000000000000000000013f4f
+ *   - http://typekit.com/eulas/000000000000000000013f4b
+ *   - http://typekit.com/eulas/00000000000000003b9afbbb
+ *   - http://typekit.com/eulas/000000000000000000013f8f
+ *   - http://typekit.com/eulas/000000000000000000014a32
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-03-12 18:16:16 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=ooy6dof&ht=tk&f=18438.18439.18440.18443.18445.22801.22797&a=11500511&app=typekit&e=css");
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("https://use.typekit.net/af/90ca1f/000000000000000000013f4f/27/l?subset_id=2&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/90ca1f/000000000000000000013f4f/27/d?subset_id=2&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/90ca1f/000000000000000000013f4f/27/a?subset_id=2&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("https://use.typekit.net/af/b714ca/000000000000000000013f4b/27/l?subset_id=2&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/b714ca/000000000000000000013f4b/27/d?subset_id=2&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/b714ca/000000000000000000013f4b/27/a?subset_id=2&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("https://use.typekit.net/af/37ee84/00000000000000003b9afbbb/27/l?subset_id=2&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/37ee84/00000000000000003b9afbbb/27/d?subset_id=2&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/37ee84/00000000000000003b9afbbb/27/a?subset_id=2&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("https://use.typekit.net/af/b4a4b5/000000000000000000014a32/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff2"),url("https://use.typekit.net/af/b4a4b5/000000000000000000014a32/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff"),url("https://use.typekit.net/af/b4a4b5/000000000000000000014a32/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;
+}
+
+@font-face {
+font-family:"azo-sans-uber";
+src:url("https://use.typekit.net/af/657ff9/000000000000000000014a2e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/657ff9/000000000000000000014a2e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/657ff9/000000000000000000014a2e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+.tk-azo-sans-web { font-family: "azo-sans-web",sans-serif; }
+.tk-azo-sans-uber { font-family: "azo-sans-uber",sans-serif; }
